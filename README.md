@@ -1,5 +1,15 @@
-### Hey! 👋
+### Hey! 👋 iOS Developer here!
 
+ - UIKit, SwiftUI
+ - Design patterns: MVC, MVVM, MVP, Singleton
+ - Core Location, Map Kit, Google Places, Google Map
+ - URLSession, JSON, WebKit, WebSocket 
+ - 3rd party libraries: Alamofire, Firebase (analytics, storage, realtime database, auth, push notifications), SnapKit, SocketIO, Introspect, Floating Panel, etc.
+ - CI/CD: GitHub, GitLab
+ - Databases: Core Data, Realm
+ - Testing: Unit tests, UI Tests
+ - Push Notifications
+ - Product delivery: Test Flight
 <!--
 **nevinchanyi/nevinchanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
