@@ -1,4 +1,4 @@
-### Hey! 👋 iOS Developer here!
+### Hey! 👋 iOS Developer is here!
 
  - UIKit, SwiftUI
  - Design patterns: MVC, MVVM, MVP, Singleton
