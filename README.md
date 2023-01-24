@@ -1,15 +1,32 @@
-### Hey! 👋 iOS Developer is here!
+# Hey! 👋 iOS Software Engineer is here, nice to meet you!
+📍Boston, MA, USA. Originally from Ukraine 🇺🇦
 
- - UIKit, SwiftUI
- - Design patterns: MVC, MVVM, MVP, Singleton
- - Core Location, Map Kit, Google Places, Google Map
- - URLSession, JSON, WebKit, WebSocket 
- - 3rd party libraries: Alamofire, Firebase (analytics, storage, realtime database, auth, push notifications), SnapKit, SocketIO, Introspect, Floating Panel, etc.
- - CI/CD: GitHub, GitLab
- - Databases: Core Data, Realm
- - Testing: Unit tests, UI Tests
- - Push Notifications
- - Product delivery: Test Flight
+## 📫 Contacts
+[LinkedIn](https://www.linkedin.com/in/nevinchanyi/)
+
+## Experience
+
+### 🏢 Teams
+[Bambuser](https://bambuser.com), [Avenga](https://www.avenga.com), [JustSchool](https://justschool.me/en), [OctyApps](https://octyapps.com)
+
+### 🚀 Pet-projects
+[Mileafy - mileage tracker](https://apps.apple.com/us/app/mileafy-mileage-tracker/id1598313408)
+
+### 🔨 Frameworks / Technologies
+- Frameworks: `UIKit`, `SwiftUI`
+- Design patterns: MVC, MVVM (+ Coordinator, + State Driven, + Server Driven UI), MVP (+ Coordinator), Singleton
+- CI/CD: `GitHub`, `GitLab`, `BitBucket`, `XcodeCloud`
+- Multithreading: `GCD`, `NSOperation`, `async/await + Actor`
+- Firebase: `Analytics`, `Firestore`, `Authentication`, `Crashlytics`, `Storage`, `AdMob`, `Dynamic Links`, `Messaging`
+- Data storing: `CoreData + (iCloud sync)`, `Realm`, `UserDefaults (@AppStorage)`, `Keychain`
+- Location based: `CoreLocation`, `MapKit`, `Google Places`, `Google Maps`
+- Networking: `URLSession`, `JSON`, `WebKit`, `WebSocket`, `Alamofire`, `SocketIO`
+- Testing: Unit tests, UI Tests
+- Additional: `SnapKit`, `Introspect`, `Floating Panel`, `CoreMotion`, `PushNotifications`, `WebRTC`
+
+### Working on
+🔭 I’m currently working on VPN app, which uses `Wireguard` protocol and based on `Oracle Cloud Services`
+
 <!--
 **nevinchanyi/nevinchanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
