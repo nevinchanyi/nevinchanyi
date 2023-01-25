@@ -1,5 +1,5 @@
 # Hey! 👋 iOS Software Engineer is here, nice to meet you!
-📍Boston, MA, USA. Originally from Ukraine 🇺🇦
+📍Cambridge, Massachusetts, United States. Originally from Ukraine 🇺🇦
 
 ## 📫 Contacts
 [LinkedIn](https://www.linkedin.com/in/nevinchanyi/)
