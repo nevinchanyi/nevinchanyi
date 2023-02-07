@@ -27,6 +27,8 @@
 ### Working on
 🔭 I’m currently working on VPN app, which uses `Wireguard` protocol and based on `Oracle Cloud Services`
 
+![Kostiantyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevinchanyi&hide=contribs,prs)
+
 <!--
 **nevinchanyi/nevinchanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
