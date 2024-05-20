@@ -1,5 +1,5 @@
-# Hey! 👋 iOS Software Engineer is here, nice to meet you!
-📍Cambridge, Massachusetts, United States. Originally from Ukraine 🇺🇦
+# Hey! 👋 iOS Senior Software Engineer is here, nice to meet you!
+📍United States. Originally from Ukraine 🇺🇦
 
 ## 📫 Contacts
 [LinkedIn](https://www.linkedin.com/in/nevinchanyi/)
@@ -16,16 +16,16 @@
 - Frameworks: `UIKit`, `SwiftUI`
 - Design patterns: MVC, MVVM (+ Coordinator, + State Driven, + Server Driven UI), MVP (+ Coordinator), Singleton
 - CI/CD: `GitHub`, `GitLab`, `BitBucket`, `XcodeCloud`
-- Multithreading: `GCD`, `NSOperation`, `async/await + Actor`
+- Multithreading: `GCD`, `NSOperation`, `Modern concurrency (async/await)`
 - Firebase: `Analytics`, `Firestore`, `Authentication`, `Crashlytics`, `Storage`, `AdMob`, `Dynamic Links`, `Messaging`
 - Data storing: `CoreData + (iCloud sync)`, `Realm`, `UserDefaults (@AppStorage)`, `Keychain`
-- Location based: `CoreLocation`, `MapKit`, `Google Places`, `Google Maps`
+- Location-based: `CoreLocation`, `MapKit`, `Google Places`, `Google Maps`
 - Networking: `URLSession`, `JSON`, `WebKit`, `WebSocket`, `Alamofire`, `SocketIO`
 - Testing: Unit tests, UI Tests
 - Additional: `SnapKit`, `Introspect`, `Floating Panel`, `CoreMotion`, `PushNotifications`, `WebRTC`
 
 ### Working on
-🔭 I’m currently working on VPN app, which uses `Wireguard` protocol and based on `Oracle Cloud Services`
+🔭 Mileage tracker with AI purpose classifier for self-employed in the US.
 
 ![Kostiantyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevinchanyi&hide=contribs,prs)
 
