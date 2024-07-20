@@ -1,5 +1,5 @@
 # Hey! 👋 iOS Senior Software Engineer is here, nice to meet you!
-📍United States. Originally from Ukraine 🇺🇦
+📍United States.
 
 ## 📫 Contacts
 [LinkedIn](https://www.linkedin.com/in/nevinchanyi/)
