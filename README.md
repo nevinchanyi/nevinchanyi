@@ -6,11 +6,11 @@
 
 ## Experience
 
-### 🏢 Teams
-[Bambuser](https://bambuser.com), [Avenga](https://www.avenga.com), [JustSchool](https://justschool.me/en), [OctyApps](https://octyapps.com)
+### 🏢 Teams worked with
+[Google](https://google.com), [Grid Dynamics](https://www.griddynamics.com), [Bambuser](https://bambuser.com), [TeamInUA](https://teaminua.com), [Avenga](https://www.avenga.com), [JustSchool](https://justschool.me/en), [OctyApps](https://octyapps.com)
 
-### 🚀 Pet-projects
-[Mileafy - mileage tracker](https://apps.apple.com/us/app/mileafy-mileage-tracker/id1598313408)
+### 🚀 My Pet-projects
+[Mileafy - mileage tracker](https://mileafy.com)
 
 ### 🔨 Frameworks / Technologies
 - Frameworks: `UIKit`, `SwiftUI`
